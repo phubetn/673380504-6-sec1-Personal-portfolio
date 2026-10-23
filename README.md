@@ -12,3 +12,5 @@
 * `Lab/` : รวบรวมงานปฏิบัติการ (Lab) ทั้งหมดในรายวิชา
 * `Final Project/` : เอกสารและลิงก์เชื่อมโยงไปยัง Capstone / Final Project (pre_capstone_list)
 * `Certificate/` : ใบรับรองการผ่านการเรียนรู้จาก Cisco Networking Academy (NetAcad)
+
+Google drive LAB (https://drive.google.com/drive/folders/13KVPD2BAG-qtqS7gHWdeFRgbhCNbHEK7?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
